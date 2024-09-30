@@ -1,4 +1,5 @@
-﻿altair==5.2.0
+streamlit-date-picker==0.0.3
+altair==5.2.0
 attrs==23.2.0
 autopep8==2.1.0
 blinker==1.7.0
